@@ -1,0 +1,6 @@
+<!-- in qiproject.xml -->
+<project version="3">
+  <qibuild name="test_client">
+    <depends runtime="true" buildtime="true" names="libnaoqi" />
+  </qibuild>
+</project>
